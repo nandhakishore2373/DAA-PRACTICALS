@@ -1,8 +1,9 @@
 # Practical 12 - Implementation of Travelling Salesman Problem
 
 **Course:** DAA (01AI0506)  
-**Name:** BRAHAMADANDI SIDHARTHA 
-**Enrollment No:** 92460118150
+**Name:** B .NANDHA KISHORE 
+**Enrollment No:** 92400118728
+
 
 This practical explains the algorithm with step-by-step trace output, intermediate decisions and complexity analysis.
 
